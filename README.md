@@ -1,14 +1,14 @@
 # 💫 About Me:
-I’m a pre-final year student passionate about building impactful tech solutions. I’ve been actively working on improving my skills in development and exploring domains like web technologies and machine learning. I enjoy turning ideas into real projects and constantly learning to stay ahead in the tech space.
+I’m a pre-final year student passionate about building impactful tech solutions. I’ve been actively improving my skills in development and exploring domains like web technologies, machine learning, and modern AI tools. I enjoy turning ideas into real projects and constantly learning to stay ahead in the tech space.
 
-🔭 Currently working on: Web Development & Machine Learning  
-🌱 Learning: Data Structures & Algorithms, Backend Development  
+🔭 Currently working on: Web Development, AI-powered projects  
+🌱 Learning: Data Structures & Algorithms, Backend Development, AI Tools & Vibe Coding  
+⚡ Interest: Building fast, creative solutions using AI and vibe coding approaches  
 
 ---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashdwip-manna-258a452a9)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mannaakashdwip@gmail.com)
 
 ---
 
@@ -20,6 +20,14 @@ I’m a pre-final year student passionate about building impactful tech solution
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🤖 AI & Vibe Coding Tools:
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)  
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)  
+![Claude](https://img.shields.io/badge/Claude-AI-orange?style=for-the-badge)  
+![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -36,9 +44,9 @@ I’m a pre-final year student passionate about building impactful tech solution
 ---
 
 ## 🏆 Achievements:
-- 🚀 Building real-world projects  
-- 💡 Consistent GitHub contributions  
-- 📚 Active learner in Web Dev & ML  
+- 🚀 Building AI-powered and real-world projects  
+- 💡 Exploring vibe coding and rapid prototyping  
+- 📚 Continuous learner in Web Dev, ML & AI tools  
 
 ---
 
